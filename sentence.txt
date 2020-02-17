@@ -1,0 +1,8 @@
+program helloworld;
+const a:10
+const b:=123b
+begin&
+    read(a);
+    if a=10 then write(hello world)
+else write(0);
+end
